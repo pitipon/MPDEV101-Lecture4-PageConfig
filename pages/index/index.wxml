@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view> Index Page : Yellow Color </view>
+
+<button bindtap='gotoItemPage'> Item Page </button>
